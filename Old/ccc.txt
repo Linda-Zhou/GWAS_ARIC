@@ -1,0 +1,2 @@
+"SNPID" "Chr" "Position" "non_coded_allele" "coded_allele" "Beta" "SE" "CAF" "imp_quality" "ESampleSize" "Pvalue" "rsid" "rsidc" "len"
+"33172" "chr5:157044058:A:G" 5 157044058 "A" "G" -0.171162 0.0100558 0.475201 0.99728 3587.84 5.71162e-65 

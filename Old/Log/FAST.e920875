@@ -1,0 +1,55 @@
+Warning messages:
+1: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  heart:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+2: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  female:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+3: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  grp1:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+4: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  grp2:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+5: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  grp3:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+6: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  grp4:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+7: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  grp5:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+8: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  grp6:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
+9: In read.dta13("/dcl02/leased/kidney/AASK/projects/03_PEER/datasets/AASK_Metabolites.dta") :
+  
+  smoke:
+  Factor codes of type double or float detected - no labels assigned.
+  Set option nonint.factors to TRUE to assign labels anyway.
+
