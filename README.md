@@ -21,7 +21,7 @@ Proteomic profiling may allow identification of plasma proteins that associate w
 changesin kidney function, elucidating biologic processes underlying the development and progression of CKD.
 #### Methods 
 We quantified the association between 4877 plasma proteins and a composite outcome of ESKD or
-decline in eGFR by 50% among 9406 participants in the Atherosclerosis Risk in Communities (ARIC) Study
+decline in eGFR by 50% among 9406 participants in the Atherosclerosis Risk in Communities (ARIC) Study
 (visit 3; mean age, 60 years) who were followed for a median of 14.4 years. We performed separate analyses
 for these proteins in a subset of 4378 participants(visit 5), whowere followed at a later time point, for amedian
 of 4.4 years. For validation, we evaluated proteins with significant associations (false discovery rate <5%) in
