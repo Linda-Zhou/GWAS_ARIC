@@ -1,1 +1,0 @@
-SNPID	Chr	Position	non_coded_allele	coded_allele	Beta	SE	CAF	Qual	ESampleSize	P

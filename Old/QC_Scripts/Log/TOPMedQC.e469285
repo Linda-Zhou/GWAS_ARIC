@@ -1,8 +1,0 @@
-Loading required package: gsubfn
-Loading required package: proto
-Loading required package: RSQLite
-Warning message:
-no DISPLAY variable so Tk is not available 
-Warning message:
-In for (Cl in classes) if (is(object, Cl)) return(object) :
-  closing unused connection 3 (/users/asurapan/04_ARIC.GWAS.with.FAST/invNBL1_Visit3_W/allchr.FAST.txt.trim)
